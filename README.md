@@ -9,7 +9,7 @@ Most of my projects are ways for me to learn by doing, and I like exploring diff
 - Database design and management  
 - Writing cleaner, more efficient code
   
-- ## 🔧 Tech I Use  
+## 🔧 Tech I Use  
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)  
